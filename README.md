@@ -1,2 +1,2 @@
-# remote-repo
-creating this repository for learning purpose
+# Remote Repo
+Creating this repository for learning purpose.
